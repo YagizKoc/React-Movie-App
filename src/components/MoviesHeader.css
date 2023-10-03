@@ -1,0 +1,27 @@
+:root{
+    --navyBlue: #12486B;
+    --Teal:     #419197;
+    --Cyan:     #78D6C6;
+    --yellow:   #F5FCCD;
+  }
+
+.header{
+    margin: 0 1.5rem;
+   }
+   
+input{
+    background-color: white;
+    height: 30px;
+    width: auto;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+button{
+    background-color: var(--yellow);
+    display: none;
+
+}
+
+
+
